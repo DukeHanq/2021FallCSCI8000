@@ -1,0 +1,14 @@
+Step1，将您要训练的图片分成8的类别，分别存入Dataset文件夹下面的Group_Icon当中，命名方式就是单纯的数字.png
+
+Step2，运行image_mover来讲这些图片放入根目录的Group_Icon文件夹下面，这些图片会被统一命名分类并拉伸
+
+Step3，运行image_loader来测试一下是否能够成功读取
+
+Step4，运行train_model1来用这些数据训练网络
+
+Step5，将predict.py当中的image_path替换为你想预测的图片的路径，运行，即可得到预测结果
+
+这里是我的训练过程
+https://colab.research.google.com/drive/1cMbwTK20bLGdnkZrl6tQBaN_QZO9P_eL?usp=sharing
+你也可以从下方链接当中获得训练用的数据，直接从第四步开始
+https://drive.google.com/file/d/1vgygQsSdna-oBHtKHSKvOGZCNsAnUWWl/view?usp=sharing
