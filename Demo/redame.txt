@@ -1,0 +1,9 @@
+Step1:将所有文件上传到google drive
+
+Step2:把你自己训练好的三个模型和第二个模型要用的WORDMAP放到同一个文件夹内。然后将工作目录设置好，懒得动也可以下载我训练好的。
+https://drive.google.com/file/d/14qxSzbmu9jBJxVe3WqBwB4oaCZLvco4t/view?usp=sharing, 
+https://drive.google.com/file/d/18VhxeNU3wtp2GIQiWsCGtKsp1vZsBO9c/view?usp=sharing, 
+https://drive.google.com/file/d/1XQJTALvmiuTztrm-QR9iBDosLWydn-Iz/view?usp=sharing, 
+https://drive.google.com/file/d/1ZmUhyI6s479qnOJMmfWBMauUDTKn667B/view?usp=sharing
+
+Step3:随便从网上找个图的连接，替换掉Demo里面的连接，然后运行Demo查看结果。
