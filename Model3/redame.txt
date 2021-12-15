@@ -1,0 +1,5 @@
+Step1:将文件夹内文件上传到google drive。
+
+Step2:打开GPT2_tarin.iqynb,将工作目录设置到和group_seed_title_description.txt同一个文件夹内。
+
+Step3:运行GPT2_tarin.iqynb即可，训练好的模型将自动保存。
